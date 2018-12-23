@@ -13,17 +13,17 @@
 
 #### _Courses_
 
-* [Python: Documentation](https://docs.python.org/3/) - Learn the fundamentals and the intermediate stuff.
-* [Linear Algebra](https://docs.python.org/3/)
-* [Probability and Stats](https://docs.python.org/3/)
-* [Calculus](https://docs.python.org/3/)
-* [Machine Learning Coursera by Andrew Ng](https://docs.python.org/3/)
-* [Deeplearning.ai Specialization by Andrew Ng](https://docs.python.org/3/)
-* [Fast.ai by Jeremy Howard](https://docs.python.org/3/)  
+* [Python: Documentation](https://docs.python.org/3/)
+* [Linear Algebra Quick Review](https://www.khanacademy.org/math/linear-algebra)
+* [Probability and Stats Quick Review](https://www.khanacademy.org/math/statistics-probability)
+* [Calculus](https://www.khanacademy.org/math/calculus-1)
+* [Machine Learning Coursera by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+* [Deeplearning.ai Specialization by Andrew Ng](https://www.deeplearning.ai/)
+* [Fast.ai by Jeremy Howard](https://www.fast.ai/)  
 #### _Reads_
-* [Relevant Research Papers on Arxiv](https://docs.python.org/3/)
-* [Deep Learning Book by Ian Goodfellow](https://docs.python.org/3/)
+* [Relevant Research Papers on Arxiv](https://arxiv.org/)
+* [Deep Learning Book by Ian Goodfellow](https://www.deeplearningbook.org/)
 #### _Frameworks_
-* [Tensorflow](https://docs.python.org/3/)
-* [Keras](https://docs.python.org/3/)
-* [Pytorch](https://docs.python.org/3/)
+* [Tensorflow](https://tensorflow.com/)
+* [Keras](https://keras.com/)
+* [Pytorch](https://pytorch.com/)
